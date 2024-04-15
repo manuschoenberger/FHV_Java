@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename local variable &apos;order&apos; in &apos;at.fhv.msc.java.Verteilzentrum.main(...)&apos; to &apos;order1&apos;&#x0D;&#x0A;- Original project: &apos;Simulationsumgebung&apos;&#x0D;&#x0A;- Original element: &apos;at.fhv.msc.java.Verteilzentrum.main(String[]).order&apos;&#x0D;&#x0A;- Renamed element: &apos;order&apos;&#x0D;&#x0A;- Update references to refactored element" description="Rename local variable &apos;order&apos;" id="org.eclipse.jdt.ui.rename.local.variable" input="/src&lt;at.fhv.msc.java{Verteilzentrum.java[Verteilzentrum~main~\[QString;@order!2085!2132!2102!2106!QTransportauftrag;!0!false" name="order1" references="true" stamp="1680617961471" version="1.0"/>
+</session>

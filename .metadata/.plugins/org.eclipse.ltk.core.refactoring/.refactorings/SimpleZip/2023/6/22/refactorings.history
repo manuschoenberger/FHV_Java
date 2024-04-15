@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename local variable &apos;fOut&apos; in &apos;at.fhv.msc.java.SimpleZip.unpack(...)&apos; to &apos;out&apos;&#x0D;&#x0A;- Original project: &apos;SimpleZip&apos;&#x0D;&#x0A;- Original element: &apos;at.fhv.msc.java.SimpleZip.unpack(String).fOut&apos;&#x0D;&#x0A;- Renamed element: &apos;fOut&apos;&#x0D;&#x0A;- Update references to refactored element" description="Rename local variable &apos;fOut&apos;" id="org.eclipse.jdt.ui.rename.local.variable" input="/src&lt;at.fhv.msc.java{SimpleZip.java[SimpleZip~unpack~QString;@fOut!1886!1940!1903!1906!QFileOutputStream;!0!false" name="out" references="true" stamp="1685701308948" version="1.0"/>
+</session>

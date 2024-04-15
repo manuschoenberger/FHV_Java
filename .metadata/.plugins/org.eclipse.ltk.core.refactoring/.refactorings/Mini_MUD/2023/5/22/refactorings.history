@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename local variable &apos;obj&apos; in &apos;at.fhv.msc.java.SaveGame.loadGame()&apos; to &apos;game&apos;&#x0D;&#x0A;- Original project: &apos;Mini_MUD&apos;&#x0D;&#x0A;- Original element: &apos;at.fhv.msc.java.SaveGame.loadGame().obj&apos;&#x0D;&#x0A;- Renamed element: &apos;obj&apos;&#x0D;&#x0A;- Update references to refactored element" description="Rename local variable &apos;obj&apos;" id="org.eclipse.jdt.ui.rename.local.variable" input="/src&lt;at.fhv.msc.java{SaveGame.java[SaveGame~loadGame@obj!825!842!832!834!QObject;!0!false" name="game" references="true" stamp="1685529100872" version="1.0"/>
+</session>

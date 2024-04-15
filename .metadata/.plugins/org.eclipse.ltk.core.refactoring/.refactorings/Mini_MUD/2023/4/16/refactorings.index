@@ -1,0 +1,23 @@
+1681997085498	Delete element
+1681997330031	Delete element
+1681997631073	Rename type 'Gegenstand'
+1682067902998	Rename local variable 'cell1'
+1682067909647	Rename local variable 'cell2'
+1682067913456	Rename local variable 'cell3'
+1682067917855	Rename local variable 'cell4'
+1682067921886	Rename local variable 'cell5'
+1682067926332	Rename local variable 'cell6'
+1682067930410	Rename local variable 'cell7'
+1682067933816	Rename local variable 'cell8'
+1682067937637	Rename local variable 'cell9'
+1682068436047	Rename local variable 'cell2door3'
+1682070655172	Rename field '_backpack'
+1682102080339	Rename type 'PlayingField'
+1682103212945	Rename field '_backpackContent'
+1682103222838	Rename field '_staticBackpackID'
+1682103234157	Rename field '_backpackID'
+1682154803718	Rename method 'setCurrentHealthAfterPoisoning'
+1682156101177	Delete element
+1682156104404	Delete element
+1682254120379	Rename field '_position'
+1682254960426	Delete element

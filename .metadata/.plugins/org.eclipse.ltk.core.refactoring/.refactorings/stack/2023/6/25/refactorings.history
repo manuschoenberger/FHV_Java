@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename method &apos;at.fhv.msc.java.Stack.top()&apos; to &apos;peek&apos;&#x0D;&#x0A;- Original project: &apos;Stack&apos;&#x0D;&#x0A;- Original element: &apos;at.fhv.msc.java.Stack.top()&apos;&#x0D;&#x0A;- Renamed element: &apos;at.fhv.msc.java.Stack.peek()&apos;&#x0D;&#x0A;- Update references to refactored element" delegate="false" deprecate="false" description="Rename method &apos;top&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.method" input="/src&lt;at.fhv.msc.java{Stack.java[Stack~top" name="peek" references="true" stamp="1687719135022" version="1.0"/>
+</session>

@@ -1,0 +1,48 @@
+import java.awt.*;
+import java.awt.event.*;
+
+public class TempCalc extends Frame {
+	private static final long serialVersionUID = 1L;
+	
+	private TextField _temp;
+	private Button _analyse;
+	private Panel _inputPanel;
+	
+	public TempCalc() {
+		this.setTitle("Temperature Calculator");
+		this.setSize(400,400);
+		this.setLayout(new BorderLayout());
+		
+		addWindowListener(new WindowAdapter() {
+			public void windowClosing(WindowEvent ev) {
+				System.exit(0);
+			}
+		});
+		
+		_inputPanel = new Panel();
+		_inputPanel.setLayout(new FlowLayout());
+		
+		Label labelTemp = new Label("temp:");
+		_temp = new TextField(3);
+		
+		_inputPanel.add(labelTemp);
+		_inputPanel.add(_temp);
+		
+		this.add(_inputPanel, BorderLayout.NORTH);
+		
+		_analyse = new Button("Plot");
+		_analyse.addActionListener(new ActionListener() {
+			@Override
+			public void actionPerformed(ActionEvent ev) {
+				// calculate and show result
+			}
+		});
+	}
+
+	public static void main(String[] args) {
+		TempCalc tc = new TempCalc();
+		tc.setVisible(true);
+
+	}
+
+}
