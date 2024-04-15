@@ -1,0 +1,7 @@
+1685978285632	Rename local variable 'g'
+1685990754282	Rename field 'DEFAULT_SCALING_LINE_LENGTH'
+1685995848355	Rename method 'reconfigureAxes'
+1685996144379	Rename field 'DEFAULT_AXIS_SCALING_LINE_LENGTH'
+1686061468241	Rename local variable 'factorY'
+1686061487556	Rename local variable 'factorY'
+1686149361845	Rename field 'zoomLevel'

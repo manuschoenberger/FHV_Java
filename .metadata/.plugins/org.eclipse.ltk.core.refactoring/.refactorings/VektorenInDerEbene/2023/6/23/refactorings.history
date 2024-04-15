@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename local variable &apos;scalar&apos; in &apos;at.fhv.msc.java.Vector.scalarMultiply(...)&apos; to &apos;factor&apos;&#x0D;&#x0A;- Original project: &apos;VektorenInDerEbene&apos;&#x0D;&#x0A;- Original element: &apos;at.fhv.msc.java.Vector.scalarMultiply(double).scalar&apos;&#x0D;&#x0A;- Renamed element: &apos;scalar&apos;&#x0D;&#x0A;- Update references to refactored element" description="Rename local variable &apos;scalar&apos;" id="org.eclipse.jdt.ui.rename.local.variable" input="/src&lt;at.fhv.msc.java{Vector.java[Vector~scalarMultiply~D@scalar!557!569!564!569!D!0!true" name="factor" references="true" stamp="1686063723418" version="1.0"/>
+</session>
